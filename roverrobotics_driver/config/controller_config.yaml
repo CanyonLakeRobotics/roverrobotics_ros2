@@ -8,13 +8,13 @@ LEFT_JOY_VERT:
   type: axis
   index: 1
   exclusion: [-0.15, 0.15]
-  scale: 1.25
+  scale: 0.7
   offset: 0
 RIGHT_JOY_HORIZ:
   type: axis
   index: 3
   exclusion: [-0.15, 0.15]
-  scale: 2.5
+  scale: 1.25
   offset: 0
 RIGHT_JOY_VERT:
   type: axis
